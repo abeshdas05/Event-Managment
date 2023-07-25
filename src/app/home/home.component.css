@@ -1,0 +1,60 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #e9e9e9;
+  }
+  
+  .maincontainer{
+    margin: auto;
+    width: 50%;
+    
+}
+
+form{
+  margin-top: 10px;
+  padding: 20px;
+  border: 1px solid#000000;
+}
+
+p{
+  border-bottom: 1px solid black;
+}
+
+
+
+.pcard{
+  padding-top: 20px;
+}
+.card{
+ 
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 80%;
+  justify-content: center;
+
+}
+
+
+.list .addnewbtn{
+  float: right;
+  padding: 10px 5px;
+}

@@ -1,0 +1,29 @@
+{
+  "Admin": {
+    "email": "admin@admin.com",
+    "password": "admin125"
+  },
+  "employee": [
+    {
+      "empid": "1",
+      "firstname": "Sebastian",
+      "lastname": "Eschweiler",
+      "email": "sebastian@codingthesmartwayss.com",
+      "id": 1
+    },
+    {
+      "empid": "2",
+      "firstname": "Steve",
+      "lastname": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "id": 2
+    },
+    {
+      "empid": "3",
+      "firstname": "Ann",
+      "lastname": "Smith",
+      "email": "ann@codingthesmartway.com",
+      "id": 3
+    }
+  ]
+}
